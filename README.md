@@ -13,6 +13,8 @@ Data Cleaning & Preprocessing (e.g. handling missing values)
 
 Exploratory Data Analysis (EDA)
 
+Feature Engineering
+
 Random Forest Regressor for feature importance
 
 Neural Network (Keras) to model satisfaction scores
