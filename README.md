@@ -20,7 +20,7 @@ Random Forest Regressor for feature importance
 Neural Network (Keras) to model satisfaction scores
 
 ## Initial Hypothesis
-We predicted that fun would be the leading factor in determining satisfaction, assuming that people who enjoy themselves more would be more likely to seek a second date.
+It was my prediction that fun would be the leading factor in determining satisfaction, assuming that people who enjoy themselves more would be more likely to seek a second date.
 
 ## Key Findings
 contradictory to the initial hypothesis, physical attractiveness was the strongest predictor of satisfaction.
